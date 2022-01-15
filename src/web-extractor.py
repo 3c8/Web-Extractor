@@ -4,7 +4,7 @@ import colorama
 from colorama import Fore
 colorama.init(autoreset=True)
 from os import system
-system("title " + "Programmed By Lynch - IP Extractor")
+system("title " + "Programmed By Lynch - Website IP Extractor")
 
 logo = """
   _                     _     
