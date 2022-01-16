@@ -20,3 +20,7 @@ title = ("Made w Love By Lynch, [i]: @l7up")
 print(Fore.RED+title) 
 host = input(f"[{Fore.GREEN}?{Fore.RESET}] Web To Extract IP From: ")
 print(f"[{Fore.GREEN}+{Fore.RESET}] IP-Adress From {host} is [{s.gethostbyname(host)}]")
+⠀ 
+
+
+
